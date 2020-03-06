@@ -1,3 +1,10 @@
+- Principais beneficios do styled components:
+- Props.
+- Ele da nomes diferentes pras classes.
+- Pode ser organizado em outro arquivo.js pra facilitar o manuseio dos  componentes "style.js importanto pro App.js".
+- Pode ser alterado o estilo de componentes com difícil acesso ao css     "exemplo do NossoBotao".
+- Temas e theme provider
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
